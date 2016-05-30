@@ -1,0 +1,33 @@
+body{
+    background-color:aliceblue;
+}
+#header-bar{
+    background-color: lightskyblue;
+    border-radius: 0;
+    border-bottom: 2px solid black;
+}
+h1 {
+    color: black;
+    clear: both;
+}
+h2 {
+    font-size: 1.5em;
+}
+#logo {
+    color: midnightblue;
+    font-size: 30px;
+}
+#nav-list a:hover {
+    background: #E7E7E7;
+    color:midnightblue;
+}
+.contenedor {
+    background-color: lightsteelblue;
+}
+.contenedor h2 {
+    padding-top: 5px;
+}
+.contenedor p {
+    padding: 10px;
+    color: midnightblue;
+}
